@@ -7,3 +7,4 @@
 - Vercel
 - AWS S3
 - Turborepo
+- NodeJS
